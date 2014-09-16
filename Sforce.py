@@ -132,6 +132,3 @@ class WellBehavedHttpTransport(SudsHttpTransport):
 		return []
 	
 	
-#s=SforceBaseClient('partner.wsdl',0)
-#result=s.login('salesforce@chikpea.com','ready2work','XP3ajo47U7fnMl6NOc3IaNaqJ')
-#print result['metadataServerUrl']
